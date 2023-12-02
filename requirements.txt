@@ -51,7 +51,7 @@ PySocks==1.7.1
 python-dateutil==2.8.2
 python-dotenv==1.0.0
 python3-openid==3.2.0
-pywin32==305
+# pywin32==306
 PyYAML==6.0.1
 pyzmq==25.1.0
 requests==2.31.0
