@@ -1,6 +1,8 @@
 # Use the official Python image as the base image
 FROM python:3.10.8
 
+ENV PIP_ROOT_USER_ACTION=ignore
+
 # Set the working directory in the container
 WORKDIR /app
 
